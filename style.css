@@ -1,0 +1,11 @@
+#main {
+    margin: 0 auto;
+    width: 885px;
+}
+.header {
+    height: 290px;
+    width: auto;
+    background-color: #000000;
+    background-image: url('/img/header.jpg');
+    background-repeat: no-repeat;
+}

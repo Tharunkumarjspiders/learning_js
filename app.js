@@ -70,11 +70,11 @@ var array = ["java" , "python" , "javascript" , "nodejs"];
 //     console.log(i);
 // }
 
-testFun();
+// testFun();
 
-function testFun(){
-    alert("hello");
-}
+// function testFun(){
+//     alert("hello");
+// }
 
 
 
